@@ -9,7 +9,7 @@ eso lo decidís vos. Sólo vamos a darte algunas consideraciones más abajo �
 * Listar todas las tareas creadas.
 * Ordenar lista de tareas por fecha.
 
-## Para correr el proyecto:
+## Para correr el proyecto (cliente):
 
 - npm install
 - npm run dev
